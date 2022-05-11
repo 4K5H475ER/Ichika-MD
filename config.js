@@ -25,10 +25,10 @@ global.APIKeys = {
 }
 
 // KALO MAU RECODE TINGGALIN CREDIT DEVELOPER YA, JGN CUMA NUMPANG NAMA
-global.owner = ['17608914335']
-global.premium = ['17608914335']
+global.owner = ['12263651312']
+global.premium = ['12263651312']
 global.packname = 'Ichika-MD'
-global.author = 'Recode By Papah-Chan\n\n\ntemukan Ichika-MD di\nYoutube bit.ly/Papah-Chan'
+global.author = 'Recode By s\n\n\ntemukan Ichika-MD di\nYoutube bit.ly/dujhgstjj'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','k','#']
 global.sp = '⭔'
@@ -39,7 +39,7 @@ global.mess = {
     owner: 'Fitur Khusus Owner Bot.',
     group: 'Fitur Digunakan Hanya Untuk Group.',
     private: 'Fitur Digunakan Hanya Untuk Private Chat.',
-    credits: '-- *C R E D I T S* --\nTuhan Yang Maha Esa\nDikaArdnt As Developer\nKyuraSaja And Papah-Chan As Recoder\nContributors in GitHub\nIluser\nNurutomo\nBochilGaming\nDVT SUpport\nRestAPI',
+    credits: '-- *C R E D I T S* --\nTuhan Yang Maha Esa\nDikaArdnt As Developer\nKyuraSaja And Papah-Chan As Recoder\nContributors in GitHub\nTisuDemon\nIluser\nNurutomo\nBochilGaming\nDVT SUpport\nRestAPI',
     bot: 'Fitur Khusus Pengguna Nomor Bot.',
     wait: '*Working on it...*\n\n\n\n_Jika tidak respon, berarti ada kesalahan dengan apikey, jika tidak ada gambar/videonya tidak muncul,artinya limit apikey sudah habis, hubungi owner untuk saran free rest api/free apikey/coba lagi nanti._',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
@@ -52,11 +52,11 @@ global.mess = {
 - GoPay
 
 *Transfer Tujuan Ke :*
-[ 082287219167 ]
+[ 12263651312 ]
 
 Lebih Lanjut, kamu bisa chat owner :
-wa.me/6281268416245
-wa.me/17608914335
+wa.me/12263651312
+wa.me/12263651312
 
 Melayani Fast Respon Jika ada waktu,
 Usahakan utk tdk memberi harapan palsu.
